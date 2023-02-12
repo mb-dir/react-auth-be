@@ -1,0 +1,5 @@
+20221230	18:23:08	d148f560-80e9-4755-8d35-bd7260426319	Error: Not allowed by CORS
+20221230	20:14:27	a1cc83ea-5a20-4958-88f9-ef9ea48b47bd	Error: ENOENT: no such file or directory, stat 'E:\Tut\nodeTut\routes\views\index.html'
+20221230	20:14:58	117f30fd-470a-4f5f-8bbc-489021d691bd	Error: ENOENT: no such file or directory, stat 'E:\Tut\nodeTut\routes\views\404.html'
+20230102	11:33:28	0d6415ff-92c6-484b-93fb-e48b85a029c8	TypeError: allowedOrigins.includes is not a function
+20230111	22:38:18	1677475a-53ca-439d-97d0-85448b0bfb04	Error: Not allowed by CORS
