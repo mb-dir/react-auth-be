@@ -11,7 +11,8 @@ BE part of [auth](https://github.com/mb-dir/react-auth-fe) project, thanks to th
 It was written based on [this](https://www.youtube.com/watch?v=f2EqECiTBL8&t=1s) tutorial(but it's not like ctrl+c, ctrl+v 🚫)
 
 ## tech stack(FE+BE)
-MongoDB
-Express
-React
-Node
+
+- MongoDB
+- Express
+- React
+- Node
